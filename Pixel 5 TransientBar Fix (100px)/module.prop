@@ -1,0 +1,6 @@
+id=transient.bar.fix
+name=Pixel 5 TransientBar Fix (100px)
+version=v1.0
+versionCode=1
+author=JCChen
+description=Fix the sensitivity of showing navigation bar & status bar.

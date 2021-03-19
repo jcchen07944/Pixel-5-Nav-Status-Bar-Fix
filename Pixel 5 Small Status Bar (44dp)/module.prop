@@ -1,0 +1,7 @@
+id=Tulsadiver_Mods
+name=Tulsadiver Mods for Pixels
+version=v1
+versionCode=1
+author=Tulsadiver
+description=Small status bar (44dp).
+minMagisk=19000

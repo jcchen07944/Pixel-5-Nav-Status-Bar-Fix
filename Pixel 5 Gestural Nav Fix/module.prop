@@ -1,0 +1,7 @@
+id=SecondaryHome_Fix
+name=Tulsadiver Mods for Pixels
+version=v1
+versionCode=1
+author=Tulsadiver
+description=Fix gestural navigation bar bug (bypass SecondaryHome).
+minMagisk=19000
